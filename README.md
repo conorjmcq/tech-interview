@@ -1,6 +1,10 @@
 # tech-interview
 A place to document and test common code questions for technical interviews.
 
+### Set Up
+
+Using `node v12.4.0`.
+
 ### Resources
 
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
