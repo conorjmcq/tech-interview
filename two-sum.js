@@ -26,5 +26,5 @@ var twoSum = function(nums, target) {
         }
         indexMap[nums[i]] = i;
     }
-    return [];    
+    return [];
 };
